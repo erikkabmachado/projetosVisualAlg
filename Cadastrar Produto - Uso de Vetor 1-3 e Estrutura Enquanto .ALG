@@ -1,4 +1,4 @@
-Algoritmo "01_11_24"
+Algoritmo "Cadastrar Produto"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
